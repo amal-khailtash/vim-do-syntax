@@ -28,3 +28,7 @@ This syntax file requires Vim 7 or higher and is made up of 2 files:
 ### References
 
 * [Questa SIM Command Reference Manual v10.3a](http://supportnet.mentor.com/docs/201404102/docs/pdfdocs/questa_sim_ref.pdf)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/amal-khailtash/vim-do-syntax/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
